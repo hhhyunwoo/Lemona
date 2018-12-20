@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">921069939985-mlfnj8l89qd3io3mlligp7jp08fsscvc.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://busanhackathon.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">921069939985</string>
+    <string name="google_api_key" translatable="false">AIzaSyD73w66goypdSeUVHtVYHt-_3IZP6pEh8E</string>
+    <string name="google_app_id" translatable="false">1:921069939985:android:bae6e7808c3b3267</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD73w66goypdSeUVHtVYHt-_3IZP6pEh8E</string>
+    <string name="google_storage_bucket" translatable="false">busanhackathon.appspot.com</string>
+    <string name="project_id" translatable="false">busanhackathon</string>
+</resources>
